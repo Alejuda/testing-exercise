@@ -1,0 +1,22 @@
+{
+  "name": "testing-exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alejuda/testing-exercise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alejuda/testing-exercise/issues"
+  },
+  "homepage": "https://github.com/Alejuda/testing-exercise#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
